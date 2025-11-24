@@ -1,2 +1,2 @@
-# urban-octo-waffle
+# Simple-Daily-Tasks
 Fun Project
